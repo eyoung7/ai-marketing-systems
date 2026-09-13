@@ -46,7 +46,7 @@ A reusable template for specifying a new workflow before building it.
 
 I'm a senior B2B marketer and AI systems builder with experience across digital strategy, web, paid media, analytics, CRO, marketing measurement, and cross-functional marketing programs.
 
-I've built 17 AI marketing workflows, 8 reusable AI skills, and 2 custom tools across research, content, analytics, campaign planning, and team operations.
+I've built 17+ AI marketing workflows, reusable AI and marketing skills, and custom tools across research, content, analytics, campaign planning, SEO & AEO, and team operations.
 
 My broader portfolio: **[emilymyoung.com](https://www.emilymyoung.com)**
 
